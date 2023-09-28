@@ -23,7 +23,7 @@ Oxygen sensors are used in a variety of industrial processes, including fermenta
 
 This project can be broken down into operational amplifiers that can be classified as non-inverting amplifiers, comparators, voltage followers that act as switches, adders. They work in tandem with low pass and bandpass filters that utilize just capacitors, inductors, and resistors. 
 
-[Click me for more mathmatical explanation!](https://docs.google.com/document/d/11dKiXr9g6kT0yFc9-63gz_o0bKVgVQtB5aEgaVRr5AQ/edit?usp=sharing)
+[A more mathmatical explanation!](https://docs.google.com/document/d/11dKiXr9g6kT0yFc9-63gz_o0bKVgVQtB5aEgaVRr5AQ/edit?usp=sharing)
 
 ## Operating Conditions
 
