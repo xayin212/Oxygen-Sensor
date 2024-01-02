@@ -68,4 +68,3 @@ This project can be broken down into operational amplifiers that can be classifi
 ### [Built Circuit on Breadboard]
 
 ![Image of Built Oxygen Sensor](built_oxygen_sensor.jpg)
-![Image of Built Oxygen Sensor](built_oxygen_sensor.jpg)
