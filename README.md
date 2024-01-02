@@ -64,3 +64,5 @@ This project can be broken down into operational amplifiers that can be classifi
 * We could also implement a circuit that would work on it’s own that doesn’t use a shared and added sinusoidal wave, but use it minimally invasive as well.
 
 ## [LTSpice Schematic](oxygen_sensor_schematic.asc)
+
+### [Built Circuit on Breadboard](built_oxygen_sensor.jpg)
