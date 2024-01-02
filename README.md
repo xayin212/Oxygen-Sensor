@@ -65,4 +65,6 @@ This project can be broken down into operational amplifiers that can be classifi
 
 ## [LTSpice Schematic](oxygen_sensor_schematic.asc)
 
-### [Built Circuit on Breadboard](built_oxygen_sensor.jpg)
+### [Built Circuit on Breadboard]
+
+![Image of Built Oxygen Sensor](built_oxygen_sensor.jpg)
