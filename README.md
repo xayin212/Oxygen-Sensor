@@ -63,8 +63,7 @@ This project can be broken down into operational amplifiers that can be classifi
 * We could implement a passband or stopband circuit that operates on a range of oxygen so there wouldn’t be too much or too little for the users; However, this would take much more steps in the circuit since we would have to consider over a limit, and the sensor doesn’t accurately measure oxygen at large percentages.
 * We could also implement a circuit that would work on it’s own that doesn’t use a shared and added sinusoidal wave, but use it minimally invasive as well.
 
-## [LTSpice Schematic]
-![Image of LTSpice Schematic](oxygen_sensor_schematic.asc)
+## [LTSpice Schematic](oxygen_sensor_schematic.asc)
 
 ## Built Circuit on Breadboard
 
